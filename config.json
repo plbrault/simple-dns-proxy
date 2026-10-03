@@ -1,0 +1,8 @@
+{
+  "upstream": "1.1.1.1",
+  "listen": "0.0.0.0",
+  "port": 53,
+  "rewrites": {
+    "example.com": "192.168.1.10"
+  }
+}
